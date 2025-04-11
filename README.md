@@ -31,7 +31,7 @@ This project uses the **RSNA Pneumonia Detection Challenge** dataset available o
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/hypatiagarcia/pneumonia-detection
     cd pneumonia_classification
     ```
 2.  **Create a virtual environment (Recommended):**
