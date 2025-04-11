@@ -75,7 +75,7 @@ However, this focus on recall comes at the cost of **lower precision (54.5%)**. 
 *   Explore alternative methods for handling class imbalance (e.g., oversampling, undersampling, Focal Loss).
 *   Train and evaluate different model architectures (e.g., ResNet-34, DenseNet).
 *   Implement k-fold cross-validation for more robust performance metrics.
-*   **(If applicable)** Integrate and evaluate Class Activation Maps (CAMs) for model interpretability.
+*   Integrate and evaluate Class Activation Maps (CAMs) for model interpretability.
 
 ## Skills Demonstrated
 
