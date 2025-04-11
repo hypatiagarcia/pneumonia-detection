@@ -1,0 +1,12 @@
+torch
+torchvision
+torchmetrics
+pytorch-lightning
+numpy
+pandas
+matplotlib
+tqdm
+pydicom         
+opencv-python 
+tensorboard    
+# tensorboardX
