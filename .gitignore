@@ -1,0 +1,5 @@
+processed/train/
+processed/val/
+logs/lightning_logs/**/*.ckpt
+.ipynb_checkpoints/
+.jupyter/
